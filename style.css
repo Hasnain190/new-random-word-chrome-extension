@@ -1,0 +1,27 @@
+body {
+	font-family: sans-serif;
+	height: 200px;
+	width: 200px;
+}
+
+.container {
+	border: 1px solid black;
+
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	gap: 10px;
+}
+.title {
+	padding-left: 1rem;
+	padding-right: 1rem;
+}
+.meaning {
+	padding: 1.5rem 1.5rem 1rem 1.5rem;
+}
+.pinyin {
+	padding: 0 1rem;
+}

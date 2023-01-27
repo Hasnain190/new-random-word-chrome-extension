@@ -1,0 +1,13 @@
+{
+    "name": "Random Chinese Word",
+    "version": "1.0.1",
+    "manifest_version": 3,
+    "description": "A random chinese word giver",
+    "action": {
+        "default_popup": "index.html",
+        "default_icons": "logo.png"
+    },
+    "permissions": [
+        "activeTab"
+    ]
+}
