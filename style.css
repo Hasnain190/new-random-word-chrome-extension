@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif+SC&family=ZCOOL+KuaiLe&display=swap");
 body {
 	font-family: sans-serif;
 	height: 200px;
@@ -24,4 +25,8 @@ body {
 }
 .pinyin {
 	padding: 0 1rem;
+}
+.word {
+	font-family: "Noto Serif SC", serif;
+	font-size: 4rem;
 }
